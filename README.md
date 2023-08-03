@@ -7,4 +7,4 @@ ASCII characters of differing 'brightness' to represent different amplitudes. In
 time, showing waves that flow across the screen.
 
 This little project is part of my ongoing effort to learn and improve my C++ abilities and was created during a two week long
-C++ course as a self-chosen project meant to compliment the lectures.
+C++ course as a self-chosen project meant to complement the lectures.
