@@ -6,5 +6,5 @@ the perturbation is then calculated numerically and the results are continually 
 ASCII characters of differing 'brightness' to represent different amplitudes. In effect, a small movie is rendered in real
 time, showing waves that flow across the screen.
 
-This little project is part of my ongoing effort to learn and improve my C++ abilities and was created during a two week long
+This little project is part of my ongoing effort to learn and improve my C++ abilities and was created during a four week long
 C++ course as a self-chosen project meant to complement the lectures.
